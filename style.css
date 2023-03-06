@@ -14,19 +14,19 @@ header{
 
 
 a.glo{
-    color:#0059ff;
+    color:#2b66d4;
     padding: 10px 20px;
     width:100px;
     text-decoration:none;
     text-align:center;
     margin:20px auto;
     display: block;
-    background-image: linear-gradient(to left,transparent,transparent 50%,#00a0e0 50%,#abb5b8);
+    background-image: linear-gradient(to left,transparent,transparent 50%,#20edfc 50%,#d5dadb);
     background-position: 100% 0;
     background-size: 400% 400%;
     transition: all .25s ease-in;
     font: 400 18px tahoma;
-    border: 1px solid #1f057a;
+    border: 1px solid #453091;
 }
    a.glo:hover {
    background-position: 0 0;
@@ -38,6 +38,4 @@ a.glo{
     background-repeat: no-repeat;
      background-size: 400%
    }
-   
-   
 
