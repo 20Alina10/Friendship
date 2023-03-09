@@ -57,6 +57,18 @@ a.glo{
     justify-content: space-around;
     align-content:center ;
 }
+.item{
+    padding: 10px;
+    border: #20edfc;
+}
+.item_3{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.item_6{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
 
 
 
