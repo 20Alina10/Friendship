@@ -49,7 +49,14 @@ a.glo{
         border:7px rgb(179, 120, 255)
       }
 
+.container{
+    grid-template-columns: 100px 100px 100px;
+    display: grid;
+    grid-auto-rows: minmax (100px ,30px) ;
 
+    justify-content: space-around;
+    align-content:center ;
+}
 
 
 
