@@ -23,7 +23,7 @@ a.glo{
     display: block;
     background-image: linear-gradient(to left,transparent,transparent 50%,#20edfc 50%,#d5dadb);
     background-position: 100% 0;
-    background-size: 400% 400%;
+    background-size: 1000% 1000%;
     transition: all .25s ease-in;
     font: 400 18px tahoma;
     border: 1px solid #453091;
