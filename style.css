@@ -49,8 +49,8 @@ a.glo{
       .grid{
         display:grid;
 
-        grid-template-rows: 100px 100px;
-       grid-column-gap:10px; 
+        grid-template-rows: 200px 200px;
+       grid-column-gap: 10px; 
        grid-row-gap: 20px;
     }
  .law
