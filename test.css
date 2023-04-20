@@ -53,7 +53,7 @@
     left: -0.05em;
   }
   
-  /* Play with the second solid fill color and opacity */
+
   .overlap span:nth-child(odd)::before {
     color: rgba(0,0,75,.14);
   }
@@ -78,7 +78,7 @@
     text-stroke: 0.01em black;
   }
   
-  /* mix up the letter outlines a bit */
+  
   .overlap span:nth-child(odd)::after {
     -webkit-text-stroke: 0.01em black;
     text-stroke: 0.01em black;
