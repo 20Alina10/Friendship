@@ -195,6 +195,11 @@ figure.effect-text-three:hover p {
 	-webkit-transform: rotate(360deg);
 			transform: rotate(360deg);
   }
+
+  .rich {
+	margin:70px;
+    
+   }
   
  
  
